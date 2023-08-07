@@ -5,7 +5,7 @@ This is a set of small projects created for the purpose of learning. Here, I tri
 
 ## Binary Star Simulation
 
-![binary star](https://github.com/satyajitlion/PhysicsSimulations/assets/60582585/47628543-7d89-45e0-a9ae-c97681adf85b)
+![star system](https://github.com/satyajitlion/PhysicsSimulations/assets/60582585/c49caa66-a55f-4282-baeb-cfb4a7776c02)
 
 
 ## Lorentz Transformation Simulation
