@@ -4,8 +4,6 @@
 A collection of computational physics projects combining Python programming with fundamental physics concepts. These simulations serve as both learning tools and visual demonstrations of physical principles.
 
 ## Solar System Simulation
-![Solar System](SolarSystemAnimation.gif)
-
 A numerical N-body simulation modeling planetary dynamics under Newtonian gravitation.
 
 This Python implementation uses:
@@ -17,8 +15,8 @@ This Python implementation uses:
   - Customizable initial conditions
   - Circular/elliptical orbit presets
   - Energy conservation monitoring
+![Solar System](SolarSystemAnimation.gif)
 
 ## Lorentz Transformation Simulation
-![lorentz transform](LorentzAnimation.gif)
-
 A visualization of special relativistic effects that occur at relativistic velocities. The β parameter quantifies the object's speed as a fraction of light speed, with space-time distortion becoming significant as β → 1. Note that the object isn't shown above, only the space that becomes distorted. 
+![lorentz transform](LorentzAnimation.gif)
