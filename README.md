@@ -7,16 +7,6 @@ This is a set of small projects created for the purpose of learning. Here, I tri
 
 A Python simulation of planetary orbits using Newtonian gravity, visualized with Matplotlib.
 
-## Features
-
-- **Realistic orbital mechanics** with Newton's law of universal gravitation
-- **Customizable parameters** for planets (mass, position, velocity)
-- **Visual enhancements**:
-  - Planet trails showing orbital paths
-  - White borders for better visibility
-  - Dark space background
-- **GIF generation** from simulation frames
-
 ## Physics Implementation
 
 ```python
