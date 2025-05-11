@@ -1,24 +1,14 @@
 
 # Physics Simulations
 
-This is a set of small projects created for the purpose of learning. Here, I tried to utilize my physics knowledge in order to create the various simulations below to familiarize myself with Python as well as create a visual aid for some concepts in physics. 
+A collection of computational physics projects combining Python programming with fundamental physics concepts. These simulations serve as both learning tools and visual demonstrations of physical principles.
 
 ## Solar System Simulation
-
-A Python simulation of planetary orbits using Newtonian gravity, visualized with Matplotlib.
-
-## Physics Implementation
-
-```python
-def compute_force(p1, p2):
-    r_vec = p1["pos"] - p2["pos"]
-    r_mag = np.linalg.norm(r_vec)
-    force_mag = G * p1["mass"] * p2["mass"] / (r_mag**2 + 1e-4)  # Softening term
-    return -force_mag * (r_vec / r_mag)
-```
 ![Solar System](SolarSystemAnimation.gif)
 
+A python simulation of a small-scale model Solar System using Newtonian gravity and visualized with Matplotlib.
 
 ## Lorentz Transformation Simulation
-
 ![lorentz transform](LorentzAnimation.gif)
+
+A visualization of special relativistic effects occurring at relativistic velocities (v ≈ c). The β parameter (where β = v/c) quantifies the object's speed as a fraction of light speed, with space-time distortion becoming significant as β → 1.
