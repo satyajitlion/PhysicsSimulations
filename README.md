@@ -5,6 +5,27 @@ This is a set of small projects created for the purpose of learning. Here, I tri
 
 ## Solar System Simulation
 
+A Python simulation of planetary orbits using Newtonian gravity, visualized with Matplotlib.
+
+## Features
+
+- **Realistic orbital mechanics** with Newton's law of universal gravitation
+- **Customizable parameters** for planets (mass, position, velocity)
+- **Visual enhancements**:
+  - Planet trails showing orbital paths
+  - White borders for better visibility
+  - Dark space background
+- **GIF generation** from simulation frames
+
+## Physics Implementation
+
+```python
+def compute_force(p1, p2):
+    r_vec = p1["pos"] - p2["pos"]
+    r_mag = np.linalg.norm(r_vec)
+    force_mag = G * p1["mass"] * p2["mass"] / (r_mag**2 + 1e-4)  # Softening term
+    return -force_mag * (r_vec / r_mag)
+```
 ![Solar System](SolarSystemAnimation.gif)
 
 
