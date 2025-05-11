@@ -5,7 +5,7 @@ This is a set of small projects created for the purpose of learning. Here, I tri
 
 ## Solar System Simulation
 
-![star system](https://github.com/satyajitlion/PhysicsSimulations/assets/60582585/c49caa66-a55f-4282-baeb-cfb4a7776c02)
+![Solar System](SolarSystemAnimation.gif)
 
 
 ## Lorentz Transformation Simulation
