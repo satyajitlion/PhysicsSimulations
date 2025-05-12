@@ -12,3 +12,7 @@ A numerical N-body simulation modeling planetary dynamics under Newtonian gravit
 A visualization of special relativistic effects that occur at relativistic velocities. The β parameter quantifies the object's speed as a fraction of light speed, with space-time distortion becoming significant as β → 1. Note that the object isn't shown below, only the space that becomes distorted. 
 
 ![lorentz transform](LorentzAnimation.gif)
+
+## 3. Young's Double-Slit Experiment Simulation
+
+![Double Slit](double_slit.gif)
