@@ -28,6 +28,6 @@ A simulation of Young's double-slit experiment, demonstrating wave interference 
 #### **Why This Project?**  
 - Bridges theory (textbook equations) and computation.  
 - Demonstrates physics + coding skills.  
-- In terms of the future, create a 3D Visualization? Maybe, try to adapt for acoustic interference.
+- In terms of the future, could create a 3D Visualization for interference. Maybe, could try to adapt for acoustic interference as well.
 
 ![Double Slit](double_slit.gif)
