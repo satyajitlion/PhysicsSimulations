@@ -18,14 +18,14 @@ A simulation of Young's double-slit experiment, demonstrating wave interference 
 
 ---
 
-#### Tools & Libraries
+#### **Tools & Libraries**
 - Python (NumPy, Matplotlib)
 - Matplotlib.Animation (for real-time visualization)
 - Pillow (for GIF export)
 
 ---
 
-#### Why This Project?  
+#### **Why This Project?**  
 - Bridges theory (textbook equations) and computation.  
 - Demonstrates physics + coding skills.  
 - In terms of the future, this is easy to extend (e.g., add noise, multi-slit interference).  
