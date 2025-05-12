@@ -16,14 +16,14 @@ A visualization of special relativistic effects that occur at relativistic veloc
 ## **3. Young's Double-Slit Experiment Simulation**
 A simulation of Young's double-slit experiment, demonstrating wave interference patterns caused by light (or quantum particles) passing through two slits. The simulation visualizes both the time-evolving wavefronts and the resulting interference intensity pattern, providing insight into wave-particle duality and classical optics.
 
---
+---
 
 #### Tools & Libraries
 - Python (NumPy, Matplotlib)
 - Matplotlib.Animation (for real-time visualization)
 - Pillow (for GIF export)
 
---
+---
 
 #### Why This Project?  
 - Bridges theory (textbook equations) and computation.  
