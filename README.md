@@ -24,7 +24,7 @@ A visualization of special relativistic effects that occur at relativistic veloc
 ![lorentz transform](LorentzAnimation.gif)
 
 ## **3. Young's Double-Slit Experiment Simulation**
-A simulation of Young's double-slit experiment, demonstrating wave interference patterns caused by light passing through two slits. The simulation visualizes both the time-evolving wavefronts and the resulting interference intensity pattern, providing insight into wave-particle duality and classical optics. In terms of the future, the simulation could be extended from 2D to a 3D visualization of interference. Additionally, the simulation could incorporate acoustic interference as well.
+A simulation of Young's double-slit experiment, demonstrating wave interference patterns caused by particles passing through two slits. The simulation visualizes both the time-evolving wavefronts and the resulting interference intensity pattern, providing insight into wave-particle duality and classical optics. In terms of the future, the simulation could be extended from 2D to a 3D visualization of interference. Additionally, the simulation could incorporate acoustic interference as well.
 
 #### **Tools & Libraries**
 - Python (NumPy, Matplotlib)
